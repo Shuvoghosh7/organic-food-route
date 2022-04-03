@@ -8,7 +8,7 @@ const Navber = () => {
     return (
         <div className='nav-bar'>
             <div className='nav-img'>
-                <img src={logo} alt="" />
+                <img className='sm:' src={logo} alt="" />
             </div>
             <div className='nav-link'>
                 <CustomLink to='/'>Home</CustomLink>

@@ -14,3 +14,8 @@
     margin-right: 20px;
     font-size: 30px;
 }
+@media only screen and (max-width: 668px) {
+    .nav-img img {
+      display: none;
+    }
+  }
