@@ -1,0 +1,74 @@
+[
+    {
+      "id": "00001",
+      "picture": "https://organiconline.com.bd/wp-content/uploads/2021/02/bc-600x600.jpg",
+      "name": "Black Kadaknath Chicken",
+      "price": 600
+    },
+    {
+      "id": "00002",
+      "picture": "https://organiconline.com.bd/wp-content/uploads/2020/08/Pekin-Duck-600x600.jpg",
+      "name": "Pekin Duck [full]",
+      "price": 720
+    },
+    {
+      "id": "00003",
+      "picture": "https://organiconline.com.bd/wp-content/uploads/2021/04/Turkey-Meat-1kg-600x600.jpg",
+      "name": "Turkey Meat ",
+      "price": 520
+    },
+    {
+      "id": "00004",
+      "picture": "https://organiconline.com.bd/wp-content/uploads/2019/12/gawa-ghee-400gm-600x600.jpg",
+      "name": "Gawa Ghee ",
+      "price": 900
+    },
+    {
+      "id": "00005",
+      "picture": "https://organiconline.com.bd/wp-content/uploads/2021/09/Arjun-Powder-600x600.jpg",
+      "name": "Arjun Powder",
+      "price": 120
+    },
+    {
+      "id": "00006",
+      "picture": "https://organiconline.com.bd/wp-content/uploads/2021/09/Ashwagandha-Powder-600x600.jpg",
+      "name": "Ashwagandha Powder ",
+      "price": 260
+    },
+    {
+      "id": "00007",
+      "picture": "https://organiconline.com.bd/wp-content/uploads/2020/05/Chirata-Powder-2-100g-1-600x600.jpg",
+      "name": "Chirata-Powder",
+      "price": 100
+    },
+    {
+      "id": "00008",
+      "picture": "https://organiconline.com.bd/wp-content/uploads/2020/04/isabgul-husk-600x600.jpg",
+      "name": "isabgul-husk",
+      "price": 170
+    },
+    {
+      "id": "00009",
+      "picture": "https://organiconline.com.bd/wp-content/uploads/2020/08/Mustard-Honey-600g2-600x600.jpg",
+      "name": "Mustard-Honey",
+      "price": 800
+    },
+    {
+      "id": "00010",
+      "picture": "https://organiconline.com.bd/wp-content/uploads/2020/08/Sundarban-Honey-600gN-600x600.jpg",
+      "name": "Sundarban-Honey",
+      "price": 850
+    },
+    {
+      "id": "00011",
+      "picture": "https://organiconline.com.bd/wp-content/uploads/2020/01/Almond-Flakes-100g-600x600.jpg",
+      "name": "Almond-Flakes",
+      "price": 200
+    },
+    {
+      "id": "00012",
+      "picture": "https://organiconline.com.bd/wp-content/uploads/2019/05/Cashew-Nuts-500g-600x600.jpg",
+      "name": "Cashew-Nuts",
+      "price": 900
+    }
+  ]

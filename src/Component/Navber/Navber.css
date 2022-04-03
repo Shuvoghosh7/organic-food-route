@@ -1,0 +1,16 @@
+.nav-bar{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: white;
+}
+
+.nav-img img{
+    width: 150px;
+    height: 150px;
+}
+.nav-link a{
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 30px;
+}
